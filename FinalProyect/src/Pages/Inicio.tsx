@@ -30,7 +30,7 @@ export default function Inicio(){
         alt="Comida Rápida"
       />
       <section style={{ margin: "0 10px", textAlign: "left" }}>
-      <h1>Bienvenidos a Foot</h1>
+      <h1>Bienvenidos a Food</h1>
      <br />
       <p>Disfruta de la mejor comida rápida de la ciudad, ¡siempre fresca y deliciosa!</p>
       <br />
